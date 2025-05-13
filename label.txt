@@ -1,0 +1,8 @@
+right set
+right spike
+right pass
+right winpoint
+left set
+left spike
+left pass
+left winpoint

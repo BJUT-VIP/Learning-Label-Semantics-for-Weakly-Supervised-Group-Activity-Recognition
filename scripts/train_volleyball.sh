@@ -1,0 +1,2 @@
+#python train.py --dataset 'volleyball' --data_path '/root/autodl-tmp/Datasets/Volleyball_dataset/videos/' --num_frame 5 --num_total_frame 10 --num_activities 8 --motion --enc_layers 2 --nheads 2 --nheads_agg 2
+python train.py --dataset 'volleyball' --data_path '/data2/wq/videos/' --num_frame 5 --num_total_frame 10 --num_activities 8 --motion --enc_layers 2 --nheads 2 --nheads_agg 2 --weight_decay 1e-3 --test_batch 4 --batch 4
